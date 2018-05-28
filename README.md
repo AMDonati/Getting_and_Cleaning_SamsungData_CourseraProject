@@ -1,7 +1,7 @@
 # Getting_and_Cleaning_SamsungData_CourseraProject
-This repo contains the script and codebook to issue a tidy dataset of Samsung Galaxy's accelerometers data.
-script name: "run_analysis.R"
-Code book name: "CodeBook.md"
+This repo contains the script and codebook to issue a tidy dataset of Samsung Galaxy's accelerometers data.    
+Script name: "run_analysis.R" . 
+Codebook name: "CodeBook.md" . 
 
 ## Raw data used 
 The raw data has been dowloaded from this link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
